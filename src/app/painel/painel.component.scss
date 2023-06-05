@@ -1,0 +1,28 @@
+
+@import "./node_modules/bootstrap/scss/bootstrap";
+// .container{
+//   margin: 10px;
+// }
+// .container{
+//   margin: 10px;
+// }
+.row{
+  // display: flex;
+  margin: 10px;
+}
+.jumbotron{
+  margin-top:  20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 10px;
+  background-color: rgb(237, 236, 234);
+}
+button{
+  margin:10px 10px 0px 0px;
+
+}
+
+p{
+  padding: 0px 0px 0px 20px ;
+  font-size: 1.5rem;
+}
